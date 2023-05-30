@@ -1,0 +1,5 @@
+name = "tail-workers-test-producer"
+main = "src/worker.js"
+compatibility_date = "2023-05-30"
+
+tail_consumers = [{service = "test"}]
